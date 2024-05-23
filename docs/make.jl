@@ -25,6 +25,6 @@ makedocs(sitename = "GoML",
 )
 
 # deploydocs(deps = nothing, make = nothing, 
-#   repo = "github.com/1ozturkbe/GoML.jl.git",
+#   repo = "github.com/margaeor/GoML.jl.git",
 #   target = "build",
 #   push_preview = true)
