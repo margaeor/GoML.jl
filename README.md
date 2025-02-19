@@ -38,3 +38,23 @@ Then, hit backspace to revert back to the julia terminal and do:
 include("test/benchmarks/allbench.jl")
 ```
 The results will be exported in dump/benchmarks into a CSV format.
+
+# Citation
+If you use this package in your work, please use the following citation:
+```
+﻿@Article{Bertsimas2025,
+  author={Bertsimas, Dimitris
+  and Margaritis, Georgios},
+  title={Global optimization: a machine learning approach},
+  journal={Journal of Global Optimization},
+  year={2025},
+  month={Jan},
+  day={01},
+  volume={91},
+  number={1},
+  pages={1-37},
+  issn={1573-2916},
+  doi={10.1007/s10898-024-01434-9},
+  url={https://doi.org/10.1007/s10898-024-01434-9}
+}
+```
